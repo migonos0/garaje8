@@ -1,0 +1,23 @@
+baseURL = 'https://www.garaje8.xyz'
+languageCode = 'es-us'
+defaultContentLanguage = "es"
+title = 'Garaje8'
+theme = "dream"
+
+[params]
+    background = "#fff"
+    backgroundImage = "/me/background.png"
+    linkColor = "#165C38"
+
+    #dark mode
+    backgroundDark = "#333"
+    headerTitle = "Garaje8"
+    backgroundImageDark = "/me/background-dark.png"
+
+    rss = true
+
+    siteStartYear = 2022
+
+    enableSearch = true
+
+    favicon = "/favicon.ico"
